@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Sachin Tendulkar", "area": "Cricket" },
+    { "id": 2, "name": "Narendra Modi", "area": "Politics" },
+    { "id": 3, "name": "Ronaldo", "area": "Football" }
+]

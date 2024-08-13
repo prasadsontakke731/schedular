@@ -1,0 +1,5 @@
+[
+    { "duration": 30, "price": 10000 },
+    { "duration": 45, "price": 15000 },
+    { "duration": 60, "price": 20000 }
+]
